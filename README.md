@@ -8,15 +8,19 @@ No dependencies. Python 3.9+.
 
 ## Install
 
+Clone and run. It is not on PyPI.
+
 ```bash
-pip install palettui
-palettui
+git clone https://github.com/CharmedPlutonia/palettui.git
+cd palettui
+python3 -m palettui
 ```
 
-Or from a checkout:
+Or install the checkout as a command:
 
 ```bash
-python3 -m palettui
+pip install .
+palettui
 ```
 
 ## What you are looking at
